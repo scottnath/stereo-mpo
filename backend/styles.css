@@ -1,0 +1,14 @@
+.wpsm_text_valid
+{
+  color: green;
+}
+
+.wpsm_text_invalid
+{
+  color: red;
+}
+
+.wpsm_input_path
+{
+  width: 300px;
+}
